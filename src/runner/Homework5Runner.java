@@ -3,7 +3,6 @@ package src.runner;
 import src.task1.Task1;
 import src.task2.Task2;
 import src.task4.Task4;
-import src.task6.Task6;
 
 public class Homework5Runner {
     public static void main(String[] args) {
@@ -21,6 +20,5 @@ public class Homework5Runner {
         Task4 task4 = new Task4();
         task4.getMeAnswer4();
         System.out.println("\n");
-
     }
 }
