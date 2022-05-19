@@ -22,7 +22,5 @@ public class Homework5Runner {
         task4.getMeAnswer4();
         System.out.println("\n");
 
-        Task6 task6 = new Task6();
-        task6.getMeAnswer6();
     }
 }
